@@ -18,7 +18,7 @@ This website is not just informative — it is built to inspire users to join th
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/unreal-course-landing.git
+   git clone https://github.com/1Oleksandra/unreal-angel-landing-page.git
 Open index.html in your browser.
 
 Explore animations, test the registration form, and check responsiveness.
