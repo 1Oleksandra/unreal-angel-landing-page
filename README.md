@@ -30,12 +30,10 @@ CSS3 (Flexbox, animations, gradients, media queries)
 
 JavaScript (DOM, events, validation)
 
-📈 Future Plans
-🔗 Backend integration for real registration
 
-🌐 Multilingual support
-
-🎥 Embedded promo video for the course
 
 📧 Contact
-For collaboration or questions: your.email@example.com
+💌 <a href="mailto:olexsandrapavlenko@gmail.com">olexsandrapavlenko@gmail.com</a> <br>
+  🔵 <a href="https://t.me/Oleksandra_Pavlenko1">Telegram: Oleksandra_Pavlenko1</a> <br>
+  🟢 <a href="https://wa.me/905068329056">WhatsApp: Oleksandra</a> <br>
+  💼 <a href="https://linkedin.com/in/olesya-dev](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0-%D0%BF%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE-59759098">LinkedIn</a> <br>
